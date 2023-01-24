@@ -1,0 +1,27 @@
+// @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+// $primary-color: #480ca8;
+// $primary-color-variant: #4cc9f0;
+$primary-color: #11998e;
+$primary-color-variant: #38ef7d;
+// $primary-color: #90f7ec;
+// $primary-color-variant: #32ccbc;
+$secondary-color: #f72585;
+$white-color: #ffffff;
+$light-color: rgba(#fff, 0.7);
+$black-color: #0c031b;
+$dark-color: rgba($black-color, 0.7);
+$success-color: #54eb72;
+$container-lg: 82%;
+$container-md: 90%;

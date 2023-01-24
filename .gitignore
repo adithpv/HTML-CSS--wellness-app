@@ -1,0 +1,7 @@
+# Ignore files related to API keys
+.env
+
+# Ignore SASS config files
+.sass-cache
+
+.vscode
